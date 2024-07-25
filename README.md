@@ -12,14 +12,14 @@ dotnet add package FSharp.Data
 
 dotnet add package Newtonsoft.Json
 
-dotnet add package XPlot.Plotly
-
-dotnet add package Deedle
-
 dotnet add package Microsoft.ML
 
 dotnet add package Microsoft.ML.DataView
 
+dotnet add package Microsoft.ML.Transforms.Text
+
 dotnet add package Giraffe
 
 dotnet add package Saturn
+
+dotnet add package Azure.AI.TextAnalytics
